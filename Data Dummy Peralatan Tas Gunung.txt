@@ -1,0 +1,30 @@
+1. Sepatu Hiking
+2. Gaiter
+3. Sleeping Bag
+4. Jaket
+5. Jas Hujan
+6. Tenda
+7. Kompor Kecil
+8. Gas Kaleng
+9. Pisau Masak
+10. Gunting
+11. Sendok
+12. Garpu
+13. Pakaian Ganti Kering 1
+14. Pakaian Ganti Kering 2
+15. Pakaian Ganti Kering 3
+16. Pakaian Ganti Kering 4
+17. Peralatan Medis
+18. Kaos Kaki
+19. Matras
+20. Senter
+21. Kompas
+22. Trash bag
+23. Sandal Jepit
+24. Celana Panjang 1
+25. Celana Panjang 2
+26. Topi
+27. Tali
+28. Powerbank
+29. Pisau Lipat
+30. Peta Jalur
